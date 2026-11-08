@@ -1,3 +1,5 @@
 .vscode/
 build/
 Iot perusteet - Fabian Timplaru.docx
+node_modules/
+dist/
